@@ -8,7 +8,7 @@
   "dependencies": {
     "gray-matter": "^4.0.3",
     "npm-package-arg": "^12.0.2",
-    "tsx": "^4.19.2",
+    "tsx": "^4.23.15",
     "validate-npm-package-name": "^6.0.2",
     "yaml": "^2.7.0"
   },
